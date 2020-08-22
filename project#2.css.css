@@ -1,0 +1,193 @@
+body{
+	background-image: url("grid.png");
+	height:750px;
+    }
+    h1{
+        background-color: #5b7bc0;
+        margin-top: 0px;
+        height:60px;
+        font-size: 50px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        color:white;
+        padding:35px 0px 0px 170px;
+        
+    }
+    
+        
+    .button2{
+     background:green;
+     left:750px;
+     top:625px;
+     width:250px;
+     height:40px;
+     color:white;
+     border-radius:5px 5px 5px 5px;
+     border-radius:solid;
+     font-family:Verdana;
+     font-size:18px;
+    }
+    .fb-body{
+        position:absolute;
+      
+        top:90px;
+        width:100%;
+        height:645px;
+	left:750px;
+        
+    
+    }
+    .fb-header{
+        width:100%;
+        height:40px;
+        position:absolute;
+        background:#5b7bc0;
+        top:0;
+        left:0;
+        color:white;
+        z-index:7;
+        font-family:verdana;
+        
+    }
+    #form1{
+        left:750px;
+        height:60px;
+        width:180px;
+        top:35px;
+        font-family:verdana;
+        font-size:12px;
+    }
+    #form2{
+        left:940px;
+        height:60px;
+        width:250px;
+        top:35px;
+        font-family:verdana;
+        font-size:12px;
+    }
+    #intro2{
+    text:bold;
+        font-size:32px;
+        left:750px;
+    top:90px;
+    height:75px;
+    width:500px;
+    font-family:verdana;
+    }
+
+
+    #form3{
+        left:1130px;
+        top:35px;
+        background-color: white;
+        color:black;
+        position:fixed;
+        z-index:20;
+        height:22px;
+        width:50px;
+        cursor:pointer;
+        }
+        .fb-body{
+            position:absolute;
+            left:0px;
+            top:90px;
+            width:100%;
+            height:645px;
+            
+        
+        }
+        #intro1{
+            left:178px;
+            top:100px;
+            font-family:verdana;
+            font-size:20px;
+            color:#142170;
+            height:75px;
+            width:550px;
+        }
+        #intro3{
+            left:750px;
+            top:170px;
+            font-family:verdana;
+            font-size:18px;
+            color:#000;
+            height:50px;
+            width:300px;
+        }
+        #form3{
+            top:200px;
+            left:750px;
+            font-family:verdana;
+            font-size:20px;
+            color:#142170;
+            width:450px;
+            height:495px;
+            
+        }
+        
+        #intro4{
+            font-family:verdana;
+            font-size:12px;
+            color:gray;
+            
+        }
+        #box{
+            
+
+            width:185px;
+	height:25px;
+	border-radius:5px 5px 5px 5px;
+	background:white;
+	padding:10px;
+	font-size:18px;
+	margin-top:8px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: gray;
+        }
+       
+        #box2{
+            width:400px;
+            height:25px;
+            border-radius:5px 5px 5px 5px;
+            background:white;
+            padding:10px;
+            font-size:18px;
+            margin-top:8px;
+            border-width: 1px;
+            border-style:solid;
+            border-color: gray;
+        }
+        #box3{
+            width:400px;
+            height:25px;
+            border-radius:5px 5px 5px 5px;
+            background:white;
+            padding:10px;
+            font-size:18px;
+            margin-top:8px;
+            border-width: 1px;
+            border-style:solid;
+            border-color: gray;
+        }
+        #box4{
+            width:185px;
+            height:25px;
+            border-radius:5px 5px 5px 5px;
+            background:white;
+            padding:10px;
+            font-size:18px;
+            margin-top:2px;
+            border-width: 1px;
+            border-style:solid;
+            border-color: gray;
+        }
+        #new{
+            margin-top: 20px;
+            margin-bottom: 5px;
+            color:black;
+            font-family:verdana;
+            
+        }
+        
+
+     
